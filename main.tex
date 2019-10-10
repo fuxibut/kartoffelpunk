@@ -1,9 +1,18 @@
-\documentclass[10pt,a4paper,twocolumn]{book}
+\documentclass[10pt,a4paper,twocolumn]{report}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage[ngerman]{babel}
+
+% Entfernt "Kapitel 1" bei Kapitelüberschriften
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Huge}
+
+% TODO Marks
+\setlength {\marginparwidth }{2cm} 
+\usepackage{todonotes}
 
 \begin{document}
 \tableofcontents

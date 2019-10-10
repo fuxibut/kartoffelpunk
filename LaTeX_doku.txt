@@ -1,0 +1,25 @@
+\chapter{Texttexttext}		Fügt neues Kapitel hinzu
+\section{Texttexttext}	Fügt neuen Abschnitt hinzu
+\subsection{Texttexttext}	Fügt neuen Unterabschnitt hinzu
+\subsubsection{Texttexttext}	Fügt neuen Unter-unterabschnitt hinzu
+
+\grqq Texttexttext\grqq{}	Deutsche Anführungszeichen
+
+\begin{itemize}			Liste mit bullet points
+\item Texttexttext
+\item Texttexttext
+\end{itemize}
+
+\begin{enumerate}		Nummerierte Liste
+\item Texttexttext
+\item Texttexttext
+\end{enumerate}
+
+\begin{itemize}
+\itemsep0pt			Kein Abstand zwischen den einzelnen Punkten
+\item Texttexttext
+\item Texttexttext
+\end{itemize}
+
+\\				Neue Zeile
+
