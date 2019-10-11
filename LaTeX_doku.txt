@@ -1,9 +1,9 @@
 \chapter{Texttexttext}		Fügt neues Kapitel hinzu
-\section{Texttexttext}	Fügt neuen Abschnitt hinzu
+\section{Texttexttext}		Fügt neuen Abschnitt hinzu
 \subsection{Texttexttext}	Fügt neuen Unterabschnitt hinzu
 \subsubsection{Texttexttext}	Fügt neuen Unter-unterabschnitt hinzu
 
-\grqq Texttexttext\grqq{}	Deutsche Anführungszeichen
+\glqq Texttexttext\grqq{}	Deutsche Anführungszeichen
 
 \begin{itemize}			Liste mit bullet points
 \item Texttexttext
