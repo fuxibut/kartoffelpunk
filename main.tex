@@ -14,6 +14,10 @@
 \setlength {\marginparwidth }{2cm} 
 \usepackage{todonotes}
 
+% Volle Refernzierung auf Kapitelnummer + Kapitelname
+\usepackage{hyperref}
+\newcommand{\secref}[1]{\autoref{#1}. \nameref{#1}}
+
 \begin{document}
 \tableofcontents
 \include{1_0_charaktere/1_0_charaktere}
