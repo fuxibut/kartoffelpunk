@@ -1,10 +1,9 @@
-\chapter{Texttexttext}				Fügt neues Kapitel hinzu
-\section{Texttexttext}				Fügt neuen Abschnitt hinzu
-\subsection{Texttexttext}			Fügt neuen Unterabschnitt hinzu
-\subsubsection{Texttexttext}			Fügt neuen Unter-unterabschnitt hinzu
-test
+\chapter{Texttexttext}				FÃ¼gt neues Kapitel hinzu
+\section{Texttexttext}				FÃ¼gt neuen Abschnitt hinzu
+\subsection{Texttexttext}			FÃ¼gt neuen Unterabschnitt hinzu
+\subsubsection{Texttexttext}			FÃ¼gt neuen Unter-unterabschnitt hinzu
 
-\glqq Texttexttext\grqq{}			Deutsche Anführungszeichen
+\glqq Texttexttext\grqq{}			Deutsche AnfÃ¼hrungszeichen
 
 \begin{itemize}					Liste mit bullet points
 \item Texttexttext
@@ -27,14 +26,14 @@ test
 \label{sec:textextext}		
 \secref{sec:textextext}				Referenziert auf Section
 
-\todo{Texttexttext}				Fügt ein TODO hinzu
+\todo{Texttexttext}				FÃ¼gt ein TODO hinzu
 
 \begin{tabular}{c|c}				Tabelle
-Höhe & Mindestreichweite der Waffe \\		
+HÃ¶he & Mindestreichweite der Waffe \\		
 \hline
-1 & 8 Längen \\
-2 & 16 Längen \\
-3 & 24 Längen \\
+1 & 8 LÃ¤ngen \\
+2 & 16 LÃ¤ngen \\
+3 & 24 LÃ¤ngen \\
 \end{tabular}
 
 \textbf{Texttexttext}				Text fett schreiben
